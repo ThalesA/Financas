@@ -51,5 +51,3 @@ Para acesso o sistema, use as seguintes credencias
 Login: admin@user.com
 Senha: 123456
 ````
-## 📝 Licença
-Esse projeto está sob a licença MIT. Veja aqui [MIT](LICENSE)
